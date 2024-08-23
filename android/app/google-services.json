@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138914495301",
+    "project_id": "gav-rosewood",
+    "storage_bucket": "gav-rosewood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138914495301:android:23148566c47b9f2879dc2c",
+        "android_client_info": {
+          "package_name": "com.campuspro.gavrosewood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7rvv5__UIDgo1Mv0Ydw4XH1xKj5zbF4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
